@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom/client';
-import Chatapp from './src/chatapp';
+import Chatapp from './chatapp';
 const Main = () => {
     return (
         <div>
